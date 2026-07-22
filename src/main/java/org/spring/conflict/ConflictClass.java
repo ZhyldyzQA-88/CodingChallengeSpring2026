@@ -3,5 +3,6 @@ package org.spring.conflict;
 public class ConflictClass {
     public static void main(String[] args) {
         System.out.println("Hello world");
+        System.out.println("Sunny day!!!");
     }
 }
