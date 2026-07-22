@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58ebe668-3577-4831-bed1-d81a3dbc4b21" name="Changes" comment="my ip">
+    <list default="true" id="58ebe668-3577-4831-bed1-d81a3dbc4b21" name="Changes" comment="BUg has been fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -82,7 +83,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "git.auto.fetch.suggestion.counter": "2",
+    "git.auto.fetch.suggestion.counter": "3",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -167,7 +168,31 @@
       <option name="project" value="LOCAL" />
       <updated>1784522352978</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="This commit contains bug">
+      <option name="closed" value="true" />
+      <created>1784609126208</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1784609126208</updated>
+    </task>
+    <task id="LOCAL-00007" summary="This commit contains bug">
+      <option name="closed" value="true" />
+      <created>1784609385433</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1784609385434</updated>
+    </task>
+    <task id="LOCAL-00008" summary="BUg has been fixed">
+      <option name="closed" value="true" />
+      <created>1784609563764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1784609563764</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +213,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="computer" />
     <MESSAGE value="my ip" />
-    <option name="LAST_COMMIT_MESSAGE" value="my ip" />
+    <MESSAGE value="This commit contains bug" />
+    <MESSAGE value="BUg has been fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="BUg has been fixed" />
   </component>
 </project>
